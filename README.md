@@ -14,11 +14,16 @@ Since SAS UE does not allow Operating System (OS) commands to be executed within
 
 I used this script in a BAT file scheduled hourly to copy the files automatically with windows scheduler:
 
+BEGIN...
+-
 copy "C:\Users\Rex\Documents\Crypto\Claymore CryptoNote CPU Miner\Claymore CryptoNote CPU Miner v3.9 - POOL\*log.txt" /Y "C:\Users\Rex\Documents\SASUniversityEdition\myfolders\My SAS Data\"
 
 copy "C:\Users\Rex\Documents\Crypto\Claymore CryptoNote CPU Miner\Claymore CryptoNote CPU Miner v4.0 - POOL\*log.txt" /Y "C:\Users\Rex\Documents\SASUniversityEdition\myfolders\My SAS Data\"
 
 dir "C:\Users\Rex\Documents\SASUniversityEdition\myfolders\My SAS Data\*log.txt"  /B >"C:\Users\Rex\Documents\SASUniversityEdition\myfolders\My SAS Data\Claymore_FindAllFiles.txt"
+
+END;
+-
 
 Once the above applications and tasks are running, then I just execute the SAS code on demand when I wish to see my latest mining shares submitted.  Since most miners are based on luck (seems to be subjective), I back in to an estimated value per share based on my actual payments received.  Not the best, but I can at least see an estimated value of my mining and monitor timeline trends.
 
