@@ -30,9 +30,15 @@ Once the above applications and tasks are running, then I just execute the SAS c
 There may be a time when I replicate the process for monitoring other events that get posted to the log.
 
 If you get this to work and want to send me some coin/token (I see a lot of GitHub contributors doing this :-).
+
 ETN: etnk9nRS9qUGp3NnnAXH4pM6mk4J4Bq1DHpDeWN3G2KuPPhn8jxcaEoB3yK3vzeK1sPL6M6WXEQfMgQKqHpSSKEf5vypGvmyYX
+
 BTC: 3BiW1Cx3kYD5niy1otkhQywYoGG17nFEgH
+
 ETH: 0xF68325c0A340d1d53Dd5881E06309Bb284Bc3AdB
+
 LTC: MTHDSRCuKWXLkADGWWX7EY593xrFQPt7A7
 
+
 Have Fnn!!!
+-
